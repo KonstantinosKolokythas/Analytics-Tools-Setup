@@ -13,10 +13,10 @@ Anaconda is a distribution of the Python and R programming languages for scienti
 Project Jupyter is a project and community whose goal is to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages". Project Jupyter's name is a reference to the three core programming languages supported by Jupyter, which are **Ju**lia, **Py**thon and **R**, and also a homage to Galileo's notebooks recording the discovery of the moons of Jupiter. Supported browsers are the latest versions of Firefox, Chrome & Safari.
 
 * If you use conda, installation with:
-`<conda install -c conda-forget jupyterlab>`
+`conda install -c conda-forget jupyterlab`
 * If you use mamba, installation with:
-`<mamba install -c conda-forget jupyterlab>`
+`mamba install -c conda-forget jupyterlab`
 * If you use pip, installation with:
-`<pip install jupyterlab>`
+`pip install jupyterlab`
 
 [Jupyter Download Link](https://jupyter.org/)
