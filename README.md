@@ -2,9 +2,9 @@
 
 The purpose of this repository is to have all the important information needed to install useful data analytics tools gathered in one easily accesible place.
 
-## A bit on Data analytics in 2021
+## Data analytics, tools, importance and future
 
-Anaconda and Jupyter are becoming essential tools in the world of data science & data analytics. Below is a list of basic information for installation for the both of them along with simple explanation of the project's purpose.
+fdggTREWFDTRE$#@&^%*&^(^%&^%#@DSGGFDS.
 
 ## Anaconda
 
