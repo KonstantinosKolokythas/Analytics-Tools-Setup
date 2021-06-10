@@ -1,8 +1,8 @@
-# Purpose of the Repository
+# Purpose of this Repository
 
-The purpose of this repository is to have all the important information needed to install data analytic tools gathered in one easily accesible place.
+The purpose of this repository is to have all the important information needed to install useful data analytics tools gathered in one easily accesible place.
 
-## Anaconda & Jupyter Setup
+## A bit on Data analytics in 2021
 
 Anaconda and Jupyter are becoming essential tools in the world of data science & data analytics. Below is a list of basic information for installation for the both of them along with simple explanation of the project's purpose.
 
@@ -12,11 +12,11 @@ Anaconda is a distribution of the Python and R programming languages for scienti
 
 [Anaconda Download Link](https://www.anaconda.com/products/individual-b)
 
-Anaconda includes Spyder, Jupyter Notebook, R Studio
+Anaconda included Jupyter Notebook and can install RStudio from its' platform. Standalone installation links for these tools can also be found below.
 
-## Jupyter
+## Jupyter Notebook
 
-Project Jupyter is a project and community whose goal is to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages". Project Jupyter's name is a reference to the three core programming languages supported by Jupyter, which are **Ju**lia, **Py**thon and **R**, and also a homage to Galileo's notebooks recording the discovery of the moons of Jupiter. Supported browsers are the latest versions of Firefox, Chrome & Safari.
+Project Jupyter is a project and community whose goal is to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages". Project Jupyter's name is a reference to the three core programming languages supported by Jupyter, which are Julia, Python and R and also an homage to Galileo's notebooks recording the discovery of the moons of Jupiter. Supported browsers are the latest versions of Firefox, Chrome & Safari.
 
 * If you use conda, installation with:
 `conda install -c conda-forget jupyterlab`
@@ -27,5 +27,12 @@ Project Jupyter is a project and community whose goal is to develop open-source 
 
 [Jupyter Download Link](https://jupyter.org/)
 
-## R Studio  (from anaconda or download link)
-## libraries?
+## RStudio  (from anaconda or download link)
+
+RStudio is an Integrated Development Environment (IDE) for R, a programming language for statistical computing and graphics. It is available in two formats: RStudio Desktop is a regular desktop application while RStudio Server runs on a remote server and allows accessing RStudio using a web browser.
+
+[RStudio Download Link](https://www.rstudio.com/products/rstudio/download/)
+
+## Microsoft Power BI (Desktop)
+
+
