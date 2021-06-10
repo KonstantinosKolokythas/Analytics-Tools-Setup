@@ -1,3 +1,7 @@
+# Purpose of the Repository
+
+The purpose of this repository is to have all the important information needed to install data analytic tools gathered in one easily accesible place.
+
 ## Anaconda & Jupyter Setup
 
 Anaconda and Jupyter are becoming essential tools in the world of data science & data analytics. Below is a list of basic information for installation for the both of them along with simple explanation of the project's purpose.
@@ -7,6 +11,8 @@ Anaconda and Jupyter are becoming essential tools in the world of data science &
 Anaconda is a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. Package versions in Anaconda are managed by the package management system conda.
 
 [Anaconda Download Link](https://www.anaconda.com/products/individual-b)
+
+Anaconda includes Spyder, Jupyter Notebook, R Studio
 
 ## Jupyter
 
@@ -20,3 +26,6 @@ Project Jupyter is a project and community whose goal is to develop open-source 
 `pip install jupyterlab`
 
 [Jupyter Download Link](https://jupyter.org/)
+
+## R Studio  (from anaconda or download link)
+## libraries?
