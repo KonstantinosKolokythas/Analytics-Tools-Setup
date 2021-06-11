@@ -4,15 +4,14 @@ The purpose of this repository is to have all the important information needed t
 
 ## Data analytics, tools, importance and future
 
-fdggTREWFDTRE$#@&^%*&^(^%&^%#@DSGGFDS.
+Data analytics examines large amounts of data to uncover hidden patterns, correlations and other insights. Today's software tools enable the analyst to do the job better than ever, faster and with the best accuracy possible. The rapid advance of information technology means that those tools evolve, specialize and adapt to the needs of the business, making the "science of data" the most important innovation of the 21st century.
 
 ## Anaconda
 
 Anaconda is a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. Package versions in Anaconda are managed by the package management system conda.
+Anaconda includes Jupyter Notebook and has built in ability to install RStudio from Anaconda Navigator. Standalone installation links for these tools can also be found below.
 
 [Anaconda Download Link](https://www.anaconda.com/products/individual-b)
-
-Anaconda included Jupyter Notebook and can install RStudio from its' platform. Standalone installation links for these tools can also be found below.
 
 ## Jupyter Notebook
 
@@ -33,6 +32,11 @@ RStudio is an Integrated Development Environment (IDE) for R, a programming lang
 
 [RStudio Download Link](https://www.rstudio.com/products/rstudio/download/)
 
-## Microsoft Power BI (Desktop)
+## Microsoft Power BI 
+
+Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform and can even have programming.
+
+[Microsoft Power BI Download Link](https://powerbi.microsoft.com/en-us/downloads/)
+
 
 
