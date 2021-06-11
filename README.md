@@ -72,7 +72,7 @@ FlySpeed SQL Query is a highly visual query tool that works with any database. I
 
 This tool transforms an xls file to SQL query.
 
-https://sqlizer.io/#/
+[Sqlizer Download Link](https://sqlizer.io/#/)
 
 
 
