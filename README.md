@@ -52,7 +52,27 @@ R is a programming language and free software environment for statistical comput
 
 [R Download Link](https://cran.r-project.org/bin/windows/base/)
 
+## Database
 
+A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques. A database is usually controlled by a database management system (DBMS). Together, the data and the DBMS, along with the applications that are associated with them, are referred to as a database system, often shortened to just database. 
+
+### Navicat
+
+Navicat is a series of graphical database management and development software produced by CyberTech for MySQL, MariaDB, MongoDB, Oracle, SQLite, PostgreSQL and Microsoft SQL Server. It has an Explorer-like graphical user interface and supports multiple database connections for local and remote databases. Its design is made to meet the needs of a variety of audiences, from database administrators and programmers to various businesses/companies that serve clients and share information with partners.
+
+[Navicat Site](https://www.navicat.com/en/)
+
+### FlySpeed SQL Query
+
+FlySpeed SQL Query is a highly visual query tool that works with any database. It is capable of connecting to every modern database server and works like a charm with all the widely used desktop databases. FlySpeed SQL Query is compatible with leading and popular office file formats including CSV and Excel.
+
+[Flyspeed Download Link](https://www.activedbsoft.com/download-querytool.html)
+
+### Sqlizer (Excel to SQL)
+
+This tool transforms an xls file to SQL query.
+
+https://sqlizer.io/#/
 
 
 
