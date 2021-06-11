@@ -38,13 +38,21 @@ Power BI is a business analytics service by Microsoft. It aims to provide intera
 
 [Microsoft Power BI Download Link](https://powerbi.microsoft.com/en-us/downloads/)
 
-## Python
+## Programming languages 
+
+### Python
 
 Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
 
 [Python Download Link](https://www.python.org/downloads/)
 
-##
+### R
+
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
+
+[R Download Link](https://cran.r-project.org/bin/windows/base/)
+
+
 
 
 
