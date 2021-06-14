@@ -1,6 +1,6 @@
 # Purpose of this Repository
 
-The purpose of this repository is to have all the important information needed to install useful data analytics tools gathered in one easily accesible place.
+The purpose of this repository is to have in one easily accesible place all the important information needed to install useful data analytics tools.
 
 ## Data analytics, tools, importance and future
 
