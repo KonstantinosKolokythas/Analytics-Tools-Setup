@@ -57,6 +57,11 @@ Power BI is a business analytics service by Microsoft. It aims to provide intera
 
 [Microsoft Power BI Download Link](https://powerbi.microsoft.com/en-us/downloads/)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61914197/123417092-063c8a00-d5c0-11eb-9844-b82cb7bd19a4.png)
+">
+</p>
+
 ### Python
 
 Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
@@ -66,10 +71,6 @@ Python is an interpreted high-level general-purpose programming language. Python
 <p align="center">
   <img src="![image](https://user-images.githubusercontent.com/61914197/123416809-b3fb6900-d5bf-11eb-92d2-0b96d6cc070e.png)">
 </p>
-
-![Uploading image.png…]()
-
-
 
 ### R
 
