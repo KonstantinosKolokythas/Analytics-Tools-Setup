@@ -98,7 +98,7 @@ Navicat is a series of graphical database management and development software pr
 [Navicat Download Link](https://www.navicat.com/en/products)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61914197/123418092-4cdeb400-d5c1-11eb-8bfb-06b5cfb9959a.png">
+  <img width='350' length='350' src="https://user-images.githubusercontent.com/61914197/123418092-4cdeb400-d5c1-11eb-8bfb-06b5cfb9959a.png">
 </p>
 
 ### FlySpeed SQL Query
