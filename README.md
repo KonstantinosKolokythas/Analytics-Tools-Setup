@@ -4,7 +4,7 @@
 
 # Objective of this Repository
 
-This purpose of this repository is to create a simple and easily accesible place with all the important information needed to install useful data analytics & programming tools.
+The purpose of this repository is to create a simple and easily accesible place with all the important information needed to install useful data analytics & programming tools.
 
 ## Data analytics & tools, their importance and future
 
