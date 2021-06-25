@@ -48,7 +48,7 @@ RStudio is an Integrated Development Environment (IDE) for R, a programming lang
 [RStudio Download Link](https://www.rstudio.com/products/rstudio/download/)
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/61914197/123416571-67b02900-d5bf-11eb-8403-b86a74fef013.png)">
+  <img src="https://user-images.githubusercontent.com/61914197/123416874-c5447580-d5bf-11eb-993f-10cb3dad3945.png">
 </p>
 
 ## Microsoft Power BI 
@@ -56,10 +56,6 @@ RStudio is an Integrated Development Environment (IDE) for R, a programming lang
 Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform and can even have programming.
 
 [Microsoft Power BI Download Link](https://powerbi.microsoft.com/en-us/downloads/)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61914197/123416874-c5447580-d5bf-11eb-993f-10cb3dad3945.png">
-</p>
 
 ### Python
 
