@@ -48,7 +48,7 @@ RStudio is an Integrated Development Environment (IDE) for R, a programming lang
 [RStudio Download Link](https://www.rstudio.com/products/rstudio/download/)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61914197/123418247-7ef01600-d5c1-11eb-93d2-49ac11b7aa72.png">
+  <img src="https://i.gadgets360cdn.com/large/visual_studio_2017_1488964677008.jpg?downsize=360:*&output-quality=80">
 </p>
 
 ### Microsoft Visual Studio
