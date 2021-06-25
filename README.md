@@ -68,7 +68,7 @@ Python is an interpreted high-level general-purpose programming language. Python
 [Python Download Link](https://www.python.org/downloads/)
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/61914197/123416809-b3fb6900-d5bf-11eb-92d2-0b96d6cc070e.png)">
+  <img src="https://user-images.githubusercontent.com/61914197/123416809-b3fb6900-d5bf-11eb-92d2-0b96d6cc070e.png">
 </p>
 
 ### R
