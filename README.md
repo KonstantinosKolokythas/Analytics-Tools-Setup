@@ -58,7 +58,7 @@ Power BI is a business analytics service by Microsoft. It aims to provide intera
 [Microsoft Power BI Download Link](https://powerbi.microsoft.com/en-us/downloads/)
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/61914197/123416607-74cd1800-d5bf-11eb-893a-3ab389384331.png)">
+  <img src="https://user-images.githubusercontent.com/61914197/123416874-c5447580-d5bf-11eb-993f-10cb3dad3945.png">
 </p>
 
 ### Python
@@ -68,8 +68,12 @@ Python is an interpreted high-level general-purpose programming language. Python
 [Python Download Link](https://www.python.org/downloads/)
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1r1I4fNfzwSoHE0UHgsGbv4XSM2cXrEJuVnWo2HSieex6DUS4qw9wcVgdJYeKmutQhjQ&usqp=CAU">
+  <img src="![image](https://user-images.githubusercontent.com/61914197/123416809-b3fb6900-d5bf-11eb-92d2-0b96d6cc070e.png)">
 </p>
+
+![Uploading image.png…]()
+
+
 
 ### R
 
