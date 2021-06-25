@@ -58,7 +58,7 @@ Microsoft Visual Studio is an integrated development environment (IDE) from Micr
 [Microsoft Visual Studio Download Link](https://visualstudio.microsoft.com/downloads/)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61914197/123416874-c5447580-d5bf-11eb-993f-10cb3dad3945.png">
+  <img src="https://user-images.githubusercontent.com/61914197/123419657-2ae63100-d5c3-11eb-83d8-3127a913da68.png">
 </p>
 
 ## Microsoft Power BI 
