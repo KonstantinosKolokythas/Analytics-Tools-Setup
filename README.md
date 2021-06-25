@@ -58,7 +58,7 @@ Power BI is a business analytics service by Microsoft. It aims to provide intera
 [Microsoft Power BI Download Link](https://powerbi.microsoft.com/en-us/downloads/)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61914197/123417092-063c8a00-d5c0-11eb-9844-b82cb7bd19a4.png)">
+  <img src="https://user-images.githubusercontent.com/61914197/123417092-063c8a00-d5c0-11eb-9844-b82cb7bd19a4.png">
 </p>
 
 ### Python
