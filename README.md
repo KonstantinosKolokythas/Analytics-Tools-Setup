@@ -47,13 +47,19 @@ RStudio is an Integrated Development Environment (IDE) for R, a programming lang
 
 [RStudio Download Link](https://www.rstudio.com/products/rstudio/download/)
 
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/61914197/123416571-67b02900-d5bf-11eb-8403-b86a74fef013.png)">
+</p>
+
 ## Microsoft Power BI 
 
 Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform and can even have programming.
 
 [Microsoft Power BI Download Link](https://powerbi.microsoft.com/en-us/downloads/)
 
-## Programming languages 
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/61914197/123416607-74cd1800-d5bf-11eb-893a-3ab389384331.png)">
+</p>
 
 ### Python
 
@@ -61,11 +67,19 @@ Python is an interpreted high-level general-purpose programming language. Python
 
 [Python Download Link](https://www.python.org/downloads/)
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1r1I4fNfzwSoHE0UHgsGbv4XSM2cXrEJuVnWo2HSieex6DUS4qw9wcVgdJYeKmutQhjQ&usqp=CAU">
+</p>
+
 ### R
 
 R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
 
 [R Download Link](https://cran.r-project.org/bin/windows/base/)
+
+<p align="center">
+  <img src="">
+</p>
 
 ### Navicat
 
@@ -73,17 +87,33 @@ Navicat is a series of graphical database management and development software pr
 
 [Navicat Site](https://www.navicat.com/en/)
 
+<p align="center">
+  <img src="">
+</p>
+
+<p align="center">
+  <img src="">
+</p>
+
 ### FlySpeed SQL Query
 
 FlySpeed SQL Query is a highly visual query tool that works with any database. It is capable of connecting to every modern database server and works like a charm with all the widely used desktop databases. FlySpeed SQL Query is compatible with leading and popular office file formats including CSV and Excel.
 
 [Flyspeed Download Link](https://www.activedbsoft.com/download-querytool.html)
 
+<p align="center">
+  <img src="">
+</p>
+
 ### Sqlizer (Excel to SQL)
 
 This tool transforms an xls file to SQL query.
 
 [Sqlizer Download Link](https://sqlizer.io/#/)
+
+<p align="center">
+  <img src="">
+</p>
 
 ### Microsoft Visual Studio
 
