@@ -1,9 +1,10 @@
-# Purpose of this Repository
-
-The purpose of this repository is to have in one easily accesible place all the important information needed to install useful data analytics tools.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61914197/123415517-0cca0200-d5be-11eb-90eb-7a6c814d0a86.png">
 </p>
+
+# Purpose of this Repository
+
+The purpose of this repository is to have in one easily accesible place all the important information needed to install useful data analytics tools.
 
 ## Data analytics, tools, importance and future
 
