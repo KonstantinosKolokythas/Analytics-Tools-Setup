@@ -2,11 +2,11 @@
   <img src="https://user-images.githubusercontent.com/61914197/123415517-0cca0200-d5be-11eb-90eb-7a6c814d0a86.png">
 </p>
 
-# Purpose of this Repository
+# Objective of this Repository
 
-The purpose of this repository is to have in one easily accesible place all the important information needed to install useful data analytics tools.
+This purpose of this repository is to create a simple and easily accesible place with all the important information needed to install useful data analytics & programming tools.
 
-## Data analytics, tools, importance and future
+## Data analytics & tools, their importance and future
 
 Data analytics examines large amounts of data to uncover hidden patterns, correlations and other insights. Today's software tools enable the analyst to do the job better than ever, faster and with the best accuracy possible. The rapid advance of information technology means that those tools evolve, specialize and adapt to the needs of the business, making the "science of data" the most important innovation of the 21st century.
 
