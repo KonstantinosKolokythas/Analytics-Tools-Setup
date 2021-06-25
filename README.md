@@ -9,22 +9,22 @@ The purpose of this repository is to have in one easily accesible place all the 
 
 Data analytics examines large amounts of data to uncover hidden patterns, correlations and other insights. Today's software tools enable the analyst to do the job better than ever, faster and with the best accuracy possible. The rapid advance of information technology means that those tools evolve, specialize and adapt to the needs of the business, making the "science of data" the most important innovation of the 21st century.
 
-## Anaconda
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">
 </p>
+
+## Anaconda
 
 Anaconda is a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. Package versions in Anaconda are managed by the package management system conda.
 Anaconda includes Jupyter Notebook and has built in ability to install RStudio from Anaconda Navigator. Standalone installation links for these tools can also be found below.
 
 [Anaconda Download Link](https://www.anaconda.com/products/individual-b)
 
-## Jupyter Notebook
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61914197/123415996-b27d7100-d5be-11eb-8d69-a649d17225fc.png">
 </p>
+
+## Jupyter Notebook
 
 Project Jupyter is a project and community whose goal is to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages". Project Jupyter's name is a reference to the three core programming languages supported by Jupyter, which are Julia, Python and R and also an homage to Galileo's notebooks recording the discovery of the moons of Jupiter. Supported browsers are the latest versions of Firefox, Chrome & Safari.
 
@@ -36,6 +36,10 @@ Project Jupyter is a project and community whose goal is to develop open-source 
 `pip install jupyterlab`
 
 [Jupyter Download Link](https://jupyter.org/)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61914197/123416248-fcfeed80-d5be-11eb-8727-ea6b67954a36.png">
+</p>
 
 ## RStudio  (from anaconda or download link)
 
