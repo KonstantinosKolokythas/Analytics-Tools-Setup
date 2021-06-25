@@ -78,7 +78,7 @@ R is a programming language and free software environment for statistical comput
 [R Download Link](https://cran.r-project.org/bin/windows/base/)
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/61914197/123417448-75b27980-d5c0-11eb-955e-b453d5172973.png">
 </p>
 
 ### Navicat
