@@ -48,6 +48,16 @@ RStudio is an Integrated Development Environment (IDE) for R, a programming lang
 [RStudio Download Link](https://www.rstudio.com/products/rstudio/download/)
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/61914197/123418247-7ef01600-d5c1-11eb-93d2-49ac11b7aa72.png">
+</p>
+
+### Microsoft Visual Studio
+
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+
+[Microsoft Visual Studio Download Link](https://visualstudio.microsoft.com/downloads/)
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/61914197/123416874-c5447580-d5bf-11eb-993f-10cb3dad3945.png">
 </p>
 
@@ -85,14 +95,10 @@ R is a programming language and free software environment for statistical comput
 
 Navicat is a series of graphical database management and development software produced by CyberTech for MySQL, MariaDB, MongoDB, Oracle, SQLite, PostgreSQL and Microsoft SQL Server. It has an Explorer-like graphical user interface and supports multiple database connections for local and remote databases. Its design is made to meet the needs of a variety of audiences, from database administrators and programmers to various businesses/companies that serve clients and share information with partners.
 
-[Navicat Site](https://www.navicat.com/en/)
+[Navicat Download Link](https://www.navicat.com/en/products)
 
 <p align="center">
-  <img src="">
-</p>
-
-<p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/61914197/123418092-4cdeb400-d5c1-11eb-8bfb-06b5cfb9959a.png">
 </p>
 
 ### FlySpeed SQL Query
@@ -102,7 +108,7 @@ FlySpeed SQL Query is a highly visual query tool that works with any database. I
 [Flyspeed Download Link](https://www.activedbsoft.com/download-querytool.html)
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/61914197/123418136-5e27c080-d5c1-11eb-89aa-15954a543b41.png">
 </p>
 
 ### Sqlizer (Excel to SQL)
@@ -110,16 +116,6 @@ FlySpeed SQL Query is a highly visual query tool that works with any database. I
 This tool transforms an xls file to SQL query.
 
 [Sqlizer Download Link](https://sqlizer.io/#/)
-
-<p align="center">
-  <img src="">
-</p>
-
-### Microsoft Visual Studio
-
-Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
-
-[Microsoft Visual Studio Download Link](https://visualstudio.microsoft.com/downloads/)
 
 
 
